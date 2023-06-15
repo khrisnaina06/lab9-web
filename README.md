@@ -7,16 +7,16 @@ Berikut ini adalah output dari Pembuatan Aplikasi CRUD Sederhana Dengan MySQL .
 ---
 
 - **Database PhpMyAdmin**
-![img0](0.png)
+![img0](img/0.png)
 
 - **Tampilan laman LOGIN**
-![img1](1.png)
+![img1](img/1.png)
 
 - **Tampilan ketika mendeteksi bukan email yang ditulis pada kolom EMAIL**
-![img2](2.png)
+![img2](img/2.png)
 
 - **Tampilan ketika EMAIL tidak terdaftar**
-![img3](4.png)
+![img3](img/4.png)
 
 - **Tampilan ketika password SALAH**
 ![img4](3.png)
