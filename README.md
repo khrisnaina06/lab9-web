@@ -19,22 +19,22 @@ Berikut ini adalah output dari Pembuatan Aplikasi CRUD Sederhana Dengan MySQL .
 ![img3](img/4.png)
 
 - **Tampilan ketika password SALAH**
-![img4](3.png)
+![img4](img/3.png)
 
 - **Tampilan panulisan EMAIL dan PASSWORD**
-![img5](5.png)
+![img5](img/5.png)
 
 - **Tampilan setelah LOGIN BERHASIL dan Masuk ke laman ADMIN PORTAL BERITA**
-![img6](6.png)
+![img6](img/6.png)
 
 - **Laman TAMBAH ARTIKEL**
-![img6](7.png)
+![img6](img/7.png)
 
 - **Laman ARTIKEL**
-![im7](8.png)
+![im7](img/8.png)
 
 - **Laman ABOUT**
-![img8](9.png)
+![img8](img/9.png)
 
 - **Laman Artikel Detail**
 ![img9](ci5/lab8/artikel-detail.png)
