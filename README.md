@@ -1,7 +1,7 @@
 # Lab9-web
-#Penambahan LOGIN
+# Penambahan LOGIN
 ---
-Berikut ini adalah output dari Pembuatan Aplikasi CRUD Sederhana Dengan MySQL .
+Berikut ini adalah output dari Pembuatan LOGIN Dengan MySQL .
 
 ## Output
 ---
